@@ -1,2 +1,2 @@
 # AmazonPrimeClone
-AmazonPrime Clone uing MERN Stack
+AmazonPrime Clone using MERN Stack
